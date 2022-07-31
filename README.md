@@ -33,7 +33,7 @@ Also I love learn new things while developing :sparkling_heart:
 <img alt="Terraform" src ="https://img.shields.io/badge/Terraform-7B42BC.svg?&style=flat&logo=Terraform&logoColor=white"/> <img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=NGINX&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>  <img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=flat&logo=GitHub Actions&logoColor=white"/> <img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=Jenkins&logoColor=white"/> <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat&logo=Amazon AWS&logoColor=white"/> 
 
 
-
+--------
 
 ### Status
 
