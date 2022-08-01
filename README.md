@@ -8,7 +8,7 @@ Also I love learn new things while developing :sparkling_heart:
 
 
 
-### 🛠 ** Tech I've usually used ** 🛠
+### 🛠 **Tech I've usually used** 🛠
 
 <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat&logo=NestJS&logoColor=white"/> <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white"/> <img alt="GitHub Actions" src ="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=flat&logo=GitHub Actions&logoColor=white"/> 
 
