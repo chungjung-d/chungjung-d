@@ -6,6 +6,10 @@ Sometimes I develop **Web Frontend**, but I prefer develop backend
 I enjoy badminton & ping-pong :tennis::tennis:  
 Also I love learn new things while developing :sparkling_heart:
 
+Email : chungjung.d@gmail.com
+Velog : https://velog.io/@chungjung-d
+Tisotry : https://daneun.tistory.com/
+
 
 
 ### 🛠 **Tech I've usually used** 🛠
