@@ -1,7 +1,6 @@
 # Chungjung Profile
 
-👋 Hi there, I'm currently a **WEB Backend Devloper** and looking for to work as a **DevOps Engineer** 
-Sometimes I develop **Web Frontend**, but I prefer develop backend 
+👋 Hi there, I'm currently looking for to work as a **Backend Engineer & Server Engineer** 
 
 I enjoy badminton & ping-pong :tennis::tennis:  
 Also I love learn new things while developing :sparkling_heart:
