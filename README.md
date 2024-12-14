@@ -2,10 +2,9 @@
 
 👋 Hi there, I'm currently looking for to work as a **Backend Engineer & Server Engineer** 
 
-I enjoy badminton & ping-pong :tennis::tennis:  
 Also I love learn new things while developing :sparkling_heart:
 
-Email : chungjung.d@gmail.com
+Email : chungjung.d@gmail.com 
 
 
 --------
@@ -29,3 +28,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Contributed Opensource
+
+<a href="https://www.testcontainers.org/">
+    <img src="https://github.com/user-attachments/assets/21d7234f-72a6-48a0-b0c1-73dd990bc2a0" alt="이미지" width="400" height="200">
+</a>
+
+
+
