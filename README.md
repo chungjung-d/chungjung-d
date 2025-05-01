@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/farms/chungjung-d"/>
 </a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chungjung-d&theme=nord_dark)
+
+
 ### Contributed Opensource
 
 <a href="https://www.testcontainers.org/">
